@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<advertisements>
+    <advertisement>
+
+        <name>s</name>
+        <soname>ss</soname>
+        <gender>m</gender>
+        <birthday>19/03</birthday>
+        <age>25</age>
+        <phone>+380</phone>
+    </advertisement>
+    <advertisement>
+
+        <name>ss</name>
+        <soname>sss</soname>
+        <gender>ssss</gender>
+        <birthday>12</birthday>
+        <age>23</age>
+        <phone>+34</phone>
+    </advertisement>
+</advertisements>
